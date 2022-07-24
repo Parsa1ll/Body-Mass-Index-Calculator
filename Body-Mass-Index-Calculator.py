@@ -1,5 +1,6 @@
 # Author: Parsa Ahmadnezhad
 # BMI Calculator
+
 print("Welcome to BMI Calculator!")
 print("This tool gives your BMI (body mass index) to help you have more information about your body mass.")
 print("BMI Chart:")
